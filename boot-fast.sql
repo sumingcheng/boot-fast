@@ -1,0 +1,1 @@
+use boot_fast;
