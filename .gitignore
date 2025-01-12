@@ -39,3 +39,6 @@ build/
 
 ### Development Configuration ###
 src/main/resources/application-dev.properties
+
+### Maven ###
+.m2/
