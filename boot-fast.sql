@@ -1,3 +1,4 @@
+create database boot_fast;
 use boot_fast;
 
 -- 用户表
