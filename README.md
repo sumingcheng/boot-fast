@@ -22,5 +22,3 @@
 - spring-boot-starter-validation
 - spring-boot-devtools
 - spring-boot-configuration-processor
-
-- 1
