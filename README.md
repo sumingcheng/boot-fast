@@ -22,3 +22,13 @@
 - spring-boot-starter-validation
 - spring-boot-devtools
 - spring-boot-configuration-processor
+
+## 目录说明
+
+- controller: 控制器层，处理 HTTP 请求
+- entity: 实体类，对应数据库表
+- service: 服务层，处理业务逻辑
+- mapper: 数据访问层，与数据库交互
+- config: 配置类
+- security: 安全相关的类
+- util: 工具类
